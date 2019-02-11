@@ -24,7 +24,9 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "@babel/runtime": "^7.3.1",
     "enzyme": "^3.8.0",
-    "enzyme-adapter-react-16": "^1.9.1"
+    "enzyme-adapter-react-16": "^1.9.1",
+    "react-docgen": "^3.0.0"
   }
 }

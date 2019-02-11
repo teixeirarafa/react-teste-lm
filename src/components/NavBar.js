@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types'
 
+/**
+ * Essse componente serve de barra de navegação e possui um input de busca.
+ */
 class NavBar extends Component {
   static propTypes = {
     query: PropTypes.string.isRequired,

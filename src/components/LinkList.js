@@ -12,7 +12,7 @@ const LinkList = props => {
             case 'discussion':
                 return 'badge-secondary'               
             case 'ux_ui':
-                return 'badge-primary'                          
+                return 'badge-primary'
             default:
                 return 'badge-info'
         }

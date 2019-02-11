@@ -1,11 +1,12 @@
 import React from 'react';
 
+/**
+ * Esse componente serve de Footer da página.
+ */
 const Footer = props => {
  return(
     <footer className="footer mt-4">
-    <div className="row d-flex">      
-        {/* Logo <div className="hexagon mt-4 ml-4"></div>
-        <span id="text-logo-footer" className="text-white mr-3">UX</span> */}
+    <div className="row d-flex">
       <code className="text-danger h2 mx-1 pl-3">&#x2B22;</code>
       <small id="text-logo" className="text-white mr-3" >UX</small>
       <div className="col-11 px-0">
