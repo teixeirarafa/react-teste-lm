@@ -30,3 +30,23 @@
     transform: rotate(360deg);
   }
 }
+
+#text-logo{
+  z-index: 2;
+  margin-left: -25px;
+  margin-top: 10px;
+}
+
+#text-logo-footer{
+  z-index: 2;
+  margin-left: -25px;
+  margin-top: 10px;
+}
+
+#notification{
+  margin-right: -5px;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
